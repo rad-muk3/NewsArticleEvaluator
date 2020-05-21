@@ -1,0 +1,9 @@
+@import 'base.scss';
+
+header .head-title {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  color: $primary-color;
+  background-color: $primary-background;
+}
