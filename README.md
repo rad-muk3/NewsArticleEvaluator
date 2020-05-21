@@ -30,10 +30,13 @@
 
 	 - The project server is setup to run in port:8081.
 	 
-## Setup the Aylien API Key and SDK
-## Setup the Environment variables to use the API Key 
-## Use the Aylien API to get the endpoints.
-## Use service workers to make sure your app works offline when server is not listening to port.
+# Setup the Aylien API Key and SDK (sign up for the key from the aylien website)
+# Setup the Environment variables to use the API Key 
+     - create a .env file and add your API id and API Key using template like:
+     - APP_ID = Your API ID
+     - APP_KEY = Your API KEY
+# Use the Aylien API to get the endpoints.
+# Use service workers to make sure your app works offline when server is not listening to port.
 
 
 
